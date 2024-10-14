@@ -1,0 +1,28 @@
+body {
+scroll-behavior: smooth;
+}
+.navbar {
+    background-color: #333;
+}
+.navbar a {
+    color: white !important;
+}
+section {
+    padding: 80px 0;
+}
+#about {
+    background-color: #f5f5f5;
+}
+#album {
+    background-color: #ddd;
+}
+#contact {
+    background-color: #333;
+    color: white;
+}
+footer {
+    background-color: #222;
+    color: #bbb;
+    padding: 30px 0;
+    text-align: center;
+}
